@@ -10,3 +10,4 @@ public class SpringUtsApplication {
 		SpringApplication.run(SpringUtsApplication.class, args);
 	}
 }
+}
